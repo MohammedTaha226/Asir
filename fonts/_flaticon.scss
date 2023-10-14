@@ -1,0 +1,126 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 13/06/2019 22:27
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-event:before { content: "\f100"; }
+.flaticon-analytics:before { content: "\f101"; }
+.flaticon-laptop:before { content: "\f102"; }
+.flaticon-student:before { content: "\f103"; }
+.flaticon-presentation:before { content: "\f104"; }
+.flaticon-chip:before { content: "\f105"; }
+.flaticon-laptop-1:before { content: "\f106"; }
+.flaticon-jigsaw:before { content: "\f107"; }
+.flaticon-group:before { content: "\f108"; }
+.flaticon-right-arrow:before { content: "\f109"; }
+.flaticon-back:before { content: "\f10a"; }
+.flaticon-down-arrow:before { content: "\f10b"; }
+.flaticon-search:before { content: "\f10c"; }
+.flaticon-teacher:before { content: "\f10d"; }
+.flaticon-calendar-page-empty:before { content: "\f10e"; }
+.flaticon-school:before { content: "\f10f"; }
+.flaticon-whatsapp-logo-variant:before { content: "\f110"; }
+.flaticon-facebook-logo:before { content: "\f111"; }
+.flaticon-twitter:before { content: "\f112"; }
+.flaticon-instagram-logo:before { content: "\f113"; }
+.flaticon-youtube:before { content: "\f114"; }
+.flaticon-menu:before { content: "\f115"; }
+.flaticon-placeholder:before { content: "\f116"; }
+.flaticon-distance-courses:before { content: "\f117"; }
+.flaticon-online-course:before { content: "\f118"; }
+.flaticon-download:before { content: "\f119"; }
+.flaticon-calendar:before { content: "\f11a"; }
+.flaticon-rating:before { content: "\f11b"; }
+.flaticon-share:before { content: "\f11c"; }
+.flaticon-share-1:before { content: "\f11d"; }
+.flaticon-book:before { content: "\f11e"; }
+.flaticon-class:before { content: "\f11f"; }
+.flaticon-bell:before { content: "\f120"; }
+.flaticon-timer:before { content: "\f121"; }
+.flaticon-file:before { content: "\f122"; }
+.flaticon-graduation:before { content: "\f123"; }
+.flaticon-chair:before { content: "\f124"; }
+.flaticon-pencil-edit-button:before { content: "\f125"; }
+.flaticon-video-player:before { content: "\f126"; }
+.flaticon-man-user:before { content: "\f127"; }
+.flaticon-lock:before { content: "\f128"; }
+.flaticon-envelope:before { content: "\f129"; }
+.flaticon-call-answer:before { content: "\f12a"; }
+    
+    $font-Flaticon-event: "\f100";
+    $font-Flaticon-analytics: "\f101";
+    $font-Flaticon-laptop: "\f102";
+    $font-Flaticon-student: "\f103";
+    $font-Flaticon-presentation: "\f104";
+    $font-Flaticon-chip: "\f105";
+    $font-Flaticon-laptop-1: "\f106";
+    $font-Flaticon-jigsaw: "\f107";
+    $font-Flaticon-group: "\f108";
+    $font-Flaticon-right-arrow: "\f109";
+    $font-Flaticon-back: "\f10a";
+    $font-Flaticon-down-arrow: "\f10b";
+    $font-Flaticon-search: "\f10c";
+    $font-Flaticon-teacher: "\f10d";
+    $font-Flaticon-calendar-page-empty: "\f10e";
+    $font-Flaticon-school: "\f10f";
+    $font-Flaticon-whatsapp-logo-variant: "\f110";
+    $font-Flaticon-facebook-logo: "\f111";
+    $font-Flaticon-twitter: "\f112";
+    $font-Flaticon-instagram-logo: "\f113";
+    $font-Flaticon-youtube: "\f114";
+    $font-Flaticon-menu: "\f115";
+    $font-Flaticon-placeholder: "\f116";
+    $font-Flaticon-distance-courses: "\f117";
+    $font-Flaticon-online-course: "\f118";
+    $font-Flaticon-download: "\f119";
+    $font-Flaticon-calendar: "\f11a";
+    $font-Flaticon-rating: "\f11b";
+    $font-Flaticon-share: "\f11c";
+    $font-Flaticon-share-1: "\f11d";
+    $font-Flaticon-book: "\f11e";
+    $font-Flaticon-class: "\f11f";
+    $font-Flaticon-bell: "\f120";
+    $font-Flaticon-timer: "\f121";
+    $font-Flaticon-file: "\f122";
+    $font-Flaticon-graduation: "\f123";
+    $font-Flaticon-chair: "\f124";
+    $font-Flaticon-pencil-edit-button: "\f125";
+    $font-Flaticon-video-player: "\f126";
+    $font-Flaticon-man-user: "\f127";
+    $font-Flaticon-lock: "\f128";
+    $font-Flaticon-envelope: "\f129";
+    $font-Flaticon-call-answer: "\f12a";

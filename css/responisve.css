@@ -1,0 +1,360 @@
+/*Big Size Screens*/
+@media (min-width: 1200px)
+{
+
+}
+
+/* small Screens & tablets & Smart phone */
+@media (max-width: 991px) 
+{
+	
+	.openMenu
+	{
+		display:block
+	}
+	
+	.header .menuPC .links
+	{
+		display:none;
+	}
+	
+	.slider img
+	{
+		height:400px
+	}
+	
+	.slider .slider-details
+	{
+		padding-top:60px
+	}
+	
+	.the-slider-control li span i
+	{
+		opacity: 0.3
+	}
+	
+	.slider .slider-details .title
+	{
+		font-size:30px;
+	}
+	
+	.slider .slider-details .desc
+	{
+		font-size:25px;
+	}
+	
+	.AboutUs .details
+	{
+		text-align:center
+	}
+	
+	.AboutUs .desc
+	{
+		max-width:100%
+	}
+	
+	.AboutUs .readMore
+	{
+		margin:30px auto 0
+	}
+	
+	.news .owl-controls .owl-buttons div.owl-prev,
+	.itemsHome .owl-controls .owl-buttons div.owl-prev
+	{
+		left:0
+	}
+	
+	.news .owl-controls .owl-buttons div,
+	.itemsHome .owl-controls .owl-buttons div
+	{
+		right:0;
+		bottom:calc(50% - 20px)
+	}
+	
+	.management .item
+	{
+		margin-bottom:25px;
+	}
+	
+	.management .more
+	{
+		margin-top:20px
+	}
+	
+	.footer .listFooter
+	{
+		margin-bottom:20px
+	}
+	
+	.regTrainees .details .desc
+	{
+		margin-bottom:20px
+	}
+	
+	.table
+	{
+		width:100%
+	}
+	
+	.table-responsive
+	{
+		border:none!important;
+		box-shadow:none
+	}
+	
+	.table-responsive thead 
+	{
+		display:none
+	}
+	
+	.table-responsive tbody tr
+	{
+		margin-bottom:15px;
+		display:block;
+		border:1px solid #d9d9e7
+	}
+	
+	.table-responsive tbody tr td:not(:last-of-type)
+	{
+		border-left:none;
+	}
+	
+	.table-responsive tbody tr td
+	{
+		text-align:center;
+		display:block
+	}
+	
+	
+	.planing .table .title
+	{
+		display:block;
+		margin-bottom:10px;
+		font-size:20px
+	}
+
+	.myinformation
+	{
+		padding-bottom:0
+	}
+	
+	.detailsPage .progDetails
+	{
+		padding-right:0
+	}
+	
+	.listSocial
+	{
+	    left: calc(50% - 160.5px);
+	}
+
+	
+	.featureDetails .item
+	{
+		width:calc(33.333333% - 10px);
+	}
+
+}
+
+/* Small Screens */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	
+	
+}
+
+/* Mobile & Tablets */
+@media (max-width: 767px) 
+{
+	.header .headerCenter .logo
+	{
+		width:300px
+	}
+	
+	.news .item .ItemNews
+	{
+		max-width:357px;
+		margin:0 auto
+	}
+	
+	.news .ItemNews img
+	{
+		width:auto
+	}
+	
+	.management .searchMang input, .ui-selectmenu-button.ui-button
+	{
+		width:100%;
+		margin-left:0!important;
+		margin-bottom:15px;
+	}
+	
+	.management .ui-selectmenu-button.ui-button
+	{
+		margin-right:0
+	}
+	
+	.management .searchMang button
+	{
+		width:100%
+	}
+	
+	.footer .footerDown
+	{
+		text-align:center
+	}
+	
+	.footer .footerDown .goTop,
+	.footer .footerDown .copyRights,
+	.footer .footerDown .logoTaha
+	{
+		float:none
+	}
+	
+	.footer .footerDown .logoTaha
+	{
+		margin-top:15px;
+	}
+	
+	.footer .footerDown .goTop
+	{
+		margin-left:0
+	}
+	
+	.itemsHome .ItemOwl .details .title
+	{
+		font-size:14px;
+	}
+	
+	.login .col-md-6
+	{
+		padding-left:25px;
+		padding-right:25px;
+	}
+	
+	.regTrainees .next
+	{
+		width:100%;
+		margin-top:30px
+	}
+	
+	.trainersTable .searchTrainers input
+	{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	
+	.trainersTable .searchTrainers button
+	{
+		position: static;
+		width:100%;
+		margin-top:0;
+	}
+	
+	.featureDetails .item
+	{
+		width:calc(50% - 10px);
+	}
+
+	
+	
+}
+
+/* Tablets */
+@media (min-width:480px) and (max-width: 767px)
+{
+
+}
+
+/* Mobile */
+@media (max-width: 479px) 
+{
+	.news .ItemNews img
+	{
+		width:100%
+	}
+	
+	.login .col-md-6
+	{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	
+	.table thead tr th
+	{
+		padding:15px 20px;
+		font-size:13px;
+	}
+	
+	.table tbody tr td
+	{
+		padding:10px
+	}
+
+	.table tbody tr td
+	{
+		font-size:13px
+	}
+	
+	.report .reportForm .tabsBtns li
+	{
+		padding:0;
+		font-size:14px;
+	}
+	
+	.managmentTrainers .formMang
+	{
+		padding-left:25px;
+		padding-right:25px;
+	}
+	.managmentTrainers .Btns
+	{
+		display:block;
+	}
+	.managmentTrainers .Btns button
+	{
+		width:50%
+	}
+	
+	.trainersTable .table thead tr th
+	{
+		padding-left:10px;
+		padding-right:10px;
+	}
+	
+	.trainersTable .table tbody tr td
+	{
+		font-size:12px
+	}
+	
+	.progTrain .item .mask .title
+	{
+		font-size:19px
+	}
+	
+	.progTrain .item .mask
+	{
+		padding-top:30px
+	}
+	
+	.statistics .sideBar .sideHead img
+	{
+		width:50px;
+		margin-top:15px
+	}
+	
+	.statistics .sideBar .sideHead .details
+	{
+		width: calc(100% - 50px);
+	}
+	
+	.detailsPage .progDetails .itemDetails .desc
+	{
+		margin-top:10px
+	}
+	.featureDetails .item
+	{
+		width:calc(100% - 10px)
+	}
+	
+}

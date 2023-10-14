@@ -1,0 +1,558 @@
+/* 133 of 1401 CSS properties converted by rtl.daskhat.ir 
+ These properties should be override originals. 
+ just load rtl css file after original css file.*/ 
+
+/* body {direction:rtl;} */
+
+ul{
+    padding-left: 0;
+}
+
+
+.socialFixed{
+    left: 0;
+    right: auto;
+}
+
+.header .topBar .rightLang{
+    float: left;
+}
+
+.header .topBar .rightLang i{
+    float: right;
+    margin-left: 8px;
+    margin-right: auto;
+}
+
+.header .topBar .links{
+    float: right;
+}
+
+.header .headerCenter{
+    text-align: left;
+}
+
+.header .menuPC .links{
+    float: left;
+}
+
+.header .menuPC .links li{
+    float: left;
+    margin-right: 15px;
+    margin-left: auto;
+}
+
+.header .menuPC .links li a i{
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.header .menuPC .links li .subMenu{
+    left: 0;
+    right: auto;
+}
+
+.header .menuPC .links li .subMenu li{
+    margin-right: 0;
+}
+
+.header .menuPC .links li .subMenu li a{
+    padding-left: 45px;
+    padding-right: 0;
+}
+
+.header .menuPC .links li .subMenu li a:before{
+    left: 28px;
+    right: auto;
+}
+
+.header .menuPC .search{
+    float: right;
+}
+
+.header .menuPC .search input{
+    right: 0;
+    left: auto;
+}
+
+.openMenu{
+    float: left;
+}
+
+.menuMobile{
+    right: 0;
+    left: auto;
+}
+
+.menuMobile .BgClose{
+    right: 0;
+    left: auto;
+}
+
+.menuMobile .menuContent{
+    left: -320px;
+    right: auto;
+}
+
+.menuMobile .menuContent.active{
+    left: 0;
+    right: auto;
+}
+
+.menuMobile .menuContent .closeX i{
+    float: right;
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.menuMobile .menuContent .menuRes li a i{
+    float: right;
+}
+
+.menuMobile .menuContent .menuRes li .subMenu li a:before{
+    left: 25px;
+    right: auto;
+}
+
+.menuMobile .menuContent .menuRes li .subMenu li a{
+    padding-left: 45px;
+    padding-right: 0;
+}
+
+.bx-wrapper .bx-viewport{
+    right: 0;
+    left: auto;
+}
+
+.background-slider{
+    right: 0;
+    left: auto;
+}
+
+.slider .slider-details{
+    left: 0;
+    right: auto;
+    padding-left: 0;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager{
+    left: 0;
+    right: auto;
+}
+
+
+.news .item{
+    direction: ltr;
+}
+
+.news .ItemNews:before{
+    left: 0;
+    right: auto;
+}
+
+.news .ItemNews .mask{
+    left: 0;
+    right: auto;
+}
+
+.services .item:before{
+    left: 0;
+    right: auto;
+}
+
+.itemsHome .item{
+    direction: ltr;
+}
+
+.itemsHome .ItemOwl .mask:before{
+    right: 0;
+    left: auto;
+}
+
+.itemsHome .ItemOwl .mask .readMore{
+    right: calc(50% - 65px);
+    left: auto;
+}
+
+
+
+.management .searchMang{
+    text-align: left;
+}
+
+.management .searchMang input, .ui-selectmenu-button.ui-button{
+    margin-right: 10px;
+    margin-left: auto;
+    padding: 0 15px 0 25px ;
+    float: left;
+}
+
+.management .searchMang button{
+    float: left;
+}
+
+.ui-button .ui-icon{
+    float: right;
+}
+
+.management .ui-selectmenu-button.ui-button{
+    text-align: left;
+}
+
+.ui-selectmenu-text{
+    margin-left: 0;
+    text-align: left;
+}
+
+.ui-icon-triangle-1-s{
+    background-position: right -63px 2px;
+}
+
+.management .item{
+    text-align: left;
+}
+
+.management .item .mask:before{
+    right: 0;
+    left: auto;
+}
+
+.management .item .mask i{
+    left: 15px;
+    right: auto;
+}
+
+.management .item .mask .tag{
+    right: 0;
+    left: auto;
+}
+
+.management .item .titleCenter{
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+.management .item .listDetails li i{
+    float: left;
+}
+
+.footer .titleFooter:before{
+    left: 0;
+    right: auto;
+}
+
+.footer .listFooter{
+    float: left;
+}
+
+.footer .listFooter:not(:last-of-type){
+    margin-right: 16px;
+    margin-left: auto;
+}
+
+.footer .footerDown .goTop{
+    float: left;
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+.footer .footerDown .copyRights{
+    float: left;
+}
+
+.footer .footerDown .logoTaha{
+    float: right;
+}
+
+.breadCrumbs:before{
+    left: 0;
+    right: auto;
+}
+
+.breadCrumbs img{
+    left: 0;
+    right: auto;
+}
+
+.login .inputStyle input{
+    padding-left: 55px;
+    padding-right: 0;
+}
+
+.login .inputStyle i, .login .selectStyle .user{
+    left: 0;
+    right: auto;
+    border-right: 1px solid #dcdce7;
+    border-left: none;
+}
+
+.login .forget{
+    float: right;
+}
+
+.login .switch{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.login .selectStyle span{
+    padding-left: 55px;
+    padding-right: 0;
+}
+
+.login .selectStyle .fa-angle-down{
+    right: 18px;
+    left: auto;
+}
+
+.login .selectStyle .list{
+    right: 0;
+    left: auto;
+}
+
+.login .selectStyle .list li i{
+    margin-right: 10px;
+    margin-left: auto;
+    float: left;
+}
+
+.regTrainees .next{
+    float: right;
+}
+
+.regTrainees .switch{
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+
+.table thead tr th:not(:last-of-type){
+    border-right: 1px solid #007e71;
+    border-left: none;
+}
+
+.table tbody tr td:not(:last-of-type){
+    border-right: 1px solid #d9d9e7;
+    border-left: none;
+}
+
+.report .reportForm .tabsBtns li{
+    float: left;
+}
+
+.inputStyle2 .name{
+    left: 15px;
+    right: auto;
+}
+
+.Btns button{
+    float: left;
+}
+
+.myinformation .infoImg .desc{
+    left: 0;
+    right: auto;
+}
+
+.trainersTable .searchTrainers input{
+    padding: 0 230px 0 30px ;
+}
+
+.trainersTable .searchTrainers button{
+    right: 25px;
+    left: auto;
+    padding-left: 25px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.trainersTable .searchTrainers button i{
+    float: right;
+}
+
+.trainersTable .table thead tr th:first-of-type, 
+.trainersTable .table thead tr th:last-of-type, 
+.trainersTable .table tbody tr td:first-of-type{
+    text-align: left;
+}
+
+.trainersTable .table tbody tr td a i{
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+.programing .list li{
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.programing .list li span{
+    left: 0;
+    right: auto;
+}
+
+.progTrain .item .mask{
+    left: 0;
+    right: auto;
+}
+
+.progTrain .item .mask .numb{
+    right: 15px;
+    left: auto;
+}
+
+.statistics .sideBar .sideHead{
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.statistics .sideBar .sideHead img{
+    float: left;
+}
+
+.statistics .sideBar .sideHead .details{
+    float: left;
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.statistics .sideBar .listLinks li a{
+    padding-left: 100px;
+    padding-right: 0;
+}
+
+.statistics .sideBar .listLinks li a i{
+    left: 0;
+    right: auto;
+    border-right: #efeff7 solid 1px;
+    border-left: none;
+}
+
+.detailsPage .imgDetails .mask .tag{
+    right: 0;
+    left: auto;
+}
+
+.detailsPage .imgDetails .mask .shareDiv{
+    left: 0;
+    right: auto;
+    padding-left: 20px;
+    padding-right: 0;
+}
+
+.listSocial{
+    right: calc(50% - 102.5px);
+    left: auto;
+    direction: rtl;
+}
+
+
+.detailsPage .progDetails{
+    padding-left: 35px;
+    padding-right: 0;
+}
+
+.detailsPage .progDetails .itemDetails i{
+    float: left;
+}
+
+.detailsPage .progDetails .itemDetails .desc{
+    padding-left: 15px;
+    padding-right: 0;
+    float: left;
+}
+
+.featureDetails .item{
+    float: left;
+}
+
+
+@media (max-width: 991px){
+
+    .table-responsive tbody tr td:not(:last-of-type){
+        border-right: none;
+        border-left: none;
+    }
+
+    .detailsPage .progDetails{
+        padding-left: 0;
+    }
+
+    .listSocial{
+        right: calc(50% - 160.5px);
+        left: auto;
+    }
+
+}
+
+@media (max-width: 767px){
+    .management .searchMang input, .ui-selectmenu-button.ui-button{
+        margin-right: 0!important;
+        margin-left: auto;
+    }
+
+    .management .ui-selectmenu-button.ui-button{
+        margin-left: 0;
+    }
+
+    .footer .footerDown .goTop{
+        margin-right: 0;
+    }
+
+    .login .col-md-6{
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    .trainersTable .searchTrainers input{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+}
+
+@media (max-width: 479px){
+    .login .col-md-6{
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .managmentTrainers .formMang{
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    .trainersTable .table thead tr th{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+}
+
+/* 4 of 27 CSS properties converted by rtl.daskhat.ir 
+ These properties should be override originals. 
+ just load rtl css file after original css file.*/ 
+
+/* body {direction:rtl;} */
+
+.rate .item .title{
+    float: left;
+}
+
+.rate .item .rateDetails{
+    float: right;
+}
+
+.rate .item .rateDetails .rateStars{
+    direction: rtl;
+}
+
+.rate .allRate span{
+    float: right;
+}
+
+
+
+
+
+
